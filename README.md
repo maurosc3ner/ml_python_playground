@@ -8,6 +8,7 @@ This is my playground repo for my refresh process of several years using matlab,
 4. Tensorflow
 5. CuPy and Rapids
 
+## Topics
 1. Basics of NumPy (I, II) and Matplotlib
 2. Greadient Boosted Decision trees
 3. Generalized linear models
