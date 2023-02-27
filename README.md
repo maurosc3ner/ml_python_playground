@@ -23,8 +23,8 @@ This is my playground repo for my refresh process of several years using matlab,
 12. Deep learning
     * Regression
     * Classification
-    * Convolutional neural networks
-    * Transfer learning
+    * [Convolutional neural networks]()
+    * Transfer learning [I](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) y [II](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
 14. Project: Visual search and image retrieval
 15. NLP
 16. Other topics: data wrangling+SQL
