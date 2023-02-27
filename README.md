@@ -21,6 +21,10 @@ This is my playground repo for my refresh process of several years using matlab,
 10. Arima (time series)+Fourier
 11. UMAP and t-SNE
 12. Deep learning
-13. Project: Visual search and image retrieval
-14. NLP
-15. Other topics: data wrangling+SQL
+    * Regression
+    * Classification
+    * Convolutional neural networks
+    * Transfer learning
+14. Project: Visual search and image retrieval
+15. NLP
+16. Other topics: data wrangling+SQL
