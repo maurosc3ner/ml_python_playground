@@ -21,10 +21,10 @@ This is my playground repo for my refresh process of several years using matlab,
 10. Arima (time series)+Fourier
 11. UMAP and t-SNE
 12. Deep learning
-    * Regression
-    * Classification
-    * [Convolutional neural networks]()
-    * Transfer learning [I](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) y [II](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
+    * [Regression](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb)
+    * [Classification](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/classifying_images_of_clothing.ipynb)
+    * Convolutional neural networks [I](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) and [II](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
+    * Transfer learning [I](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) and [II](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
 14. Project: Visual search and image retrieval
 15. NLP
 16. Other topics: data wrangling+SQL
