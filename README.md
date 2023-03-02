@@ -1,5 +1,5 @@
 # ML in Python
-This is my playground repo for my refresh process of several years using matlab, and R in several ML tasks. I will focus on try to complete a typical stack of an ML engineer completely in Python. Classical models from the basics (trees, linear models) to the more complex ones (deep learning, nlp) will be part of those notebooks
+This is my playground repo for my refresh process of several years using matlab, and R in several ML tasks. Here, I focus on try to complete a typical stack of an ML engineer completely in Python. Classical models from the basics (trees, linear models) to the more complex ones (deep learning, nlp) will be part of those notebooks
 
 ## Frameworks
 1. NumPy 
