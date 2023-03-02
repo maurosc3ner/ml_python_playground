@@ -18,7 +18,11 @@ This is my playground repo for my refresh process of several years using matlab,
 7. SVM
 8. Generalized Additive Models (GAMs)
 9. DBSCAN
-10. Arima (time series)+Fourier
+10. Time-series forecasting
+    * [Heuristic](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/time_series_I.ipynb)
+    * [Machine Learning](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/time_series_I.ipynb)
+    * Recurrent neural networks (RNNs) and long short term memory (LSTMs)
+    * CNNs
 11. UMAP and t-SNE
 12. Deep learning
     * [Regression](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb)
