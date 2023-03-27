@@ -28,7 +28,8 @@ This is my playground repo for my refresh process of several years using matlab,
 12. UMAP and t-SNE
 13. Deep learning
     * [Regression](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb)
-    * [Classification](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/classifying_images_of_clothing.ipynb)
+    * Classification
+      * Clothes classification ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/classifying_images_of_clothing.ipynb))
     * Convolutional neural networks [part 1](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) and [part 2](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
     * Transfer learning [part 1](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb) and [part 2](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
 14. Project: Visual search and image retrieval
