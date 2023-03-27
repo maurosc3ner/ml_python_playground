@@ -27,7 +27,7 @@ This is my playground repo for my refresh process of several years using matlab,
     * CNNs
 12. UMAP and t-SNE
 13. Deep learning
-    * [Regression]
+    * Regression
       * Naive classifier from scratch ([FChollet](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb))
       * Simple linear regression celsius2fahrenheit ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb))
     * Classification
