@@ -27,10 +27,12 @@ This is my playground repo for my refresh process of several years using matlab,
     * CNNs
 12. UMAP and t-SNE
 13. Deep learning
-    * [Regression](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb)
+    * [Regression]
+      * Naive classifier from scratch ([FChollet](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb))
+      * Simple linear regression celsius2fahrenheit ([Udacity]   (https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/regression_celsius_to_fahrenheit.ipynb)
     * Classification
       * Clothes classification ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/classifying_images_of_clothing.ipynb))
-      * Dogs vs Cats ([Udacity(https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb))
+      * Dogs vs Cats ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb))
       *  Dogs vs Cats with data augmentation ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb))
       * Dogs vs Cats with Transfer learning (InceptionV1) ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb))
       * Flowers with Transfer learning (InceptionV1) ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb)
