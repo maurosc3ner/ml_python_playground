@@ -9,15 +9,16 @@ This is my playground repo for my refresh process of several years using matlab,
 5. CuPy and Rapids
 
 ## Topics
-1. Basics of NumPy (I, II) and Matplotlib
+1. Basics of NumPy (I, II), [Tensors](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb)  and Matplotlib
 2. Web scrapping with requests and beatifulsoup
-3. Greadient Boosted Decision trees
+3. Decision trees
+   * Random Forest
+   * Greadient Boosted Decision trees
 4. Generalized linear models
-5. Random Forest
-6. Singular Value Decomposition and PCA
-7. K-Means|K-NN
-8. SVM
-9. Generalized Additive Models (GAMs)
+5. Singular Value Decomposition and PCA
+6. K-Means|K-NN
+7. SVM
+8. Generalized Additive Models (GAMs)
 10. DBSCAN
 11. Time-series forecasting
     * [Heuristic](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/time_series_I.ipynb)
