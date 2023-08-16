@@ -14,7 +14,7 @@ This is my playground repo for my refresh process of several years using matlab,
 3. Decision trees
    * Random Forest
    * Greadient Boosted Decision trees
-4. Generalized linear models
+4. Regression using GLMs
 5. Singular Value Decomposition and PCA
 6. K-Means|K-NN
 7. SVM
