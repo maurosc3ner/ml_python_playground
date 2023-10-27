@@ -41,4 +41,4 @@ This is my playground repo for my refresh process of several years using matlab,
 15. NLP
 16. Other topics: data wrangling+SQL
 17.  GPU
-    * Apple Silicon ([tf.device](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/cpu_vs_gpu_appleM1.ipynb))
+   * Apple Silicon ([tf.device](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/cpu_vs_gpu_appleM1.ipynb))
