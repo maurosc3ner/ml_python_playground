@@ -12,10 +12,10 @@ This is my playground repo for my refresh process of several years using matlab,
 1. Basics of NumPy (I, II), [Tensors](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb) and Matplotlib
 2. Web scrapping with requests and beatifulsoup
 3. Decision trees
-   * Random Forest
-   * Greadient Boosted Decision trees
+   * Random Forest ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
+   * Greadient Boosted Decision trees ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
 4. Regression using GLMs
-   * Logistic regression ([titanic](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
+   * Logistic regression ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
    * Linear regression
    * Spline regression (GAMs)
 6. Singular Value Decomposition and PCA
