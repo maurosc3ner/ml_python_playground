@@ -9,16 +9,19 @@ This is my playground repo for my refresh process of several years using matlab,
 5. CuPy and Rapids
 
 ## Topics
-1. Basics of NumPy (I, II), [Tensors](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb)  and Matplotlib
+1. Basics of NumPy (I, II), [Tensors](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch2_ch3.ipynb) and Matplotlib
 2. Web scrapping with requests and beatifulsoup
 3. Decision trees
    * Random Forest
    * Greadient Boosted Decision trees
 4. Regression using GLMs
-5. Singular Value Decomposition and PCA
-6. K-Means|K-NN
-7. SVM
-8. Generalized Additive Models (GAMs)
+   * Logistic regression ([titanic](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
+   * Linear regression
+   * Spline regression (GAMs)
+6. Singular Value Decomposition and PCA
+7. K-Means|K-NN
+8. SVM
+9. Generalized Additive Models (GAMs)
 10. DBSCAN
 11. Time-series forecasting
     * [Heuristic](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/time_series_I.ipynb)
@@ -37,6 +40,7 @@ This is my playground repo for my refresh process of several years using matlab,
       * Dogs vs Cats with Transfer learning (InceptionV1) ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_1_dogs_vs_cats.ipynb))
       * Flowers with Transfer learning (InceptionV1) ([Udacity](https://github.com/maurosc3ner/ml_python_playground/blob/main/courses/udacity_intro_to_tensorflow_for_deep_learning/cnn_2_flowers_with_data_augmentation.ipynb))
       * Movie reviews (imdb) ([FChollet](https://github.com/maurosc3ner/ml_python_playground/blob/main/book_fchollet/dl_chollet_ch4_1_imdb_classifier.ipynb))
+      * TabPFN: Titanic dataset (Kaggle) ([titanic](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
 14. Project: Visual search and image retrieval
 15. NLP
 16. Other topics: data wrangling+SQL
