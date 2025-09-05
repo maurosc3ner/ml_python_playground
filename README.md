@@ -15,6 +15,7 @@ This is my playground repo for my refresh process of several years using matlab,
    * Random Forest ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
    * Greadient Boosted Decision trees ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
 4. Regression using GLMs
+   * Perfom a non-regularized logistic regression from scratch ([notebook])() 
    * Logistic regression ([titanic example](https://github.com/maurosc3ner/ml_python_playground/blob/main/titanicTabPFN.ipynb))
    * Linear regression
    * Spline regression (GAMs)
